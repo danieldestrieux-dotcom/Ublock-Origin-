@@ -1,2 +1,0 @@
-# Ublock-Origin-
-Setting 
